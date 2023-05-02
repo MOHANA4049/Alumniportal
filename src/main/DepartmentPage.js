@@ -9,7 +9,7 @@ export default function DepartmentPage() {
       id: "cse",
       route: "/departments/cse",
       title: "DEPARTMENT OF CSE",
-      src: require("./images/cse.jpg"),
+      src: require('./images/cse.jpg'),
     },
     {
       id: "it",
